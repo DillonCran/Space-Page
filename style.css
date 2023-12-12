@@ -1,0 +1,49 @@
+.earth {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+    left: 0;
+    top: 400px;
+}
+
+.moon {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+    left: 0;
+    top: 200px;
+}
+
+.venus {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
+
+.mars {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
+
+.saturn {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
+
+.europa {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
+
+.enceladus {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
+
+.stars {
+  position: absolute;
+}
